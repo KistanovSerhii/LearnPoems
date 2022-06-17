@@ -243,7 +243,7 @@
 			<Language>English</Language>
 			<Subsystem>Справочники</Subsystem>
 			<Subsystem>Системные</Subsystem>
-			<CommonForm>ГлавноеМеню</CommonForm>
+			<CommonForm>Пазл</CommonForm>
 			<Catalog>Произведения</Catalog>
 			<Catalog>Картинки</Catalog>
 		</ChildObjects>
