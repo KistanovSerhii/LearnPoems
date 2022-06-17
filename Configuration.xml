@@ -240,6 +240,12 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Language>English</Language>
+			<Subsystem>Справочники</Subsystem>
+			<Subsystem>Системные</Subsystem>
+			<CommonForm>ГлавноеМеню</CommonForm>
+			<Catalog>Произведения</Catalog>
+			<Catalog>Картинки</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
