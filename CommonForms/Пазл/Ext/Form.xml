@@ -52,6 +52,41 @@
 			<ShowTitle>false</ShowTitle>
 			<ExtendedTooltip name="ГруппаСловаРасширеннаяПодсказка" id="9"/>
 		</UsualGroup>
+		<LabelDecoration name="ДекорацияОтступСередина" id="18">
+			<Title formatted="false">
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>_ _ _</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>en</v8:lang>
+					<v8:content>_ _ _</v8:content>
+				</v8:item>
+			</Title>
+			<ContextMenu name="ДекорацияОтступСерединаКонтекстноеМеню" id="19"/>
+			<ExtendedTooltip name="ДекорацияОтступСерединаРасширеннаяПодсказка" id="20"/>
+		</LabelDecoration>
+		<UsualGroup name="ГруппаПроверки" id="16">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа проверки</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>en</v8:lang>
+					<v8:content>Verification Group</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Группа проверки</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Representation>None</Representation>
+			<ShowTitle>false</ShowTitle>
+			<ExtendedTooltip name="ГруппаПроверкиРасширеннаяПодсказка" id="17"/>
+		</UsualGroup>
 		<LabelDecoration name="ДекорацияОтступНиз" id="13">
 			<Title formatted="false">
 				<v8:item>
@@ -145,4 +180,12 @@
 			<Action>Проверить</Action>
 		</Command>
 	</Commands>
+	<Parameters>
+		<Parameter name="Ссылка">
+			<Type>
+				<v8:Type>cfg:CatalogRef.Произведения</v8:Type>
+			</Type>
+			<KeyParameter>true</KeyParameter>
+		</Parameter>
+	</Parameters>
 </Form>

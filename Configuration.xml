@@ -243,6 +243,7 @@
 			<Language>English</Language>
 			<Subsystem>Справочники</Subsystem>
 			<Subsystem>Системные</Subsystem>
+			<CommonModule>ОбщийОписаниеОшибокНаКлиенте</CommonModule>
 			<CommonForm>Пазл</CommonForm>
 			<Catalog>Произведения</Catalog>
 			<Catalog>Картинки</Catalog>
