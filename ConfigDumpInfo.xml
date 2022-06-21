@@ -29,8 +29,8 @@
 			<Metadata name="Catalog.Произведения.TabularSection.Тело.Attribute.Подсказка" id="e6f52d9e-35a4-4cbc-874f-0fd0451ca401"/>
 		</Metadata>
 		<Metadata name="Catalog.Произведения.Command.Пазл.CommandModule" id="571e5539-1888-4f33-8b67-b1bab8de4855.2" configVersion="2a9b0fb81c3e9441b57251514449436c00000000"/>
-		<Metadata name="CommonForm.Пазл" id="ea27d3b5-b41e-491f-9097-d01bb3e89f73" configVersion="76522ece3a88014bb650dca8b7a9a79400000000"/>
-		<Metadata name="CommonForm.Пазл.Form" id="ea27d3b5-b41e-491f-9097-d01bb3e89f73.0" configVersion="cc193fa08a61d04ab7a91ea64b7330ee00000000"/>
+		<Metadata name="CommonForm.Пазл" id="ea27d3b5-b41e-491f-9097-d01bb3e89f73" configVersion="ede0c378a2f10d41829e272e26107e4f00000000"/>
+		<Metadata name="CommonForm.Пазл.Form" id="ea27d3b5-b41e-491f-9097-d01bb3e89f73.0" configVersion="452ea804394a6e4b95553613b7719dbb00000000"/>
 		<Metadata name="CommonModule.ОбщийОписаниеОшибокНаКлиенте" id="a0dde042-5cf9-417e-bbee-daf41c6988aa" configVersion="02125a2cc7d15145b3c9f822905e629b00000000"/>
 		<Metadata name="CommonModule.ОбщийОписаниеОшибокНаКлиенте.Module" id="a0dde042-5cf9-417e-bbee-daf41c6988aa.0" configVersion="26a884146af4d64eb350fd6be9c43b6800000000"/>
 		<Metadata name="Configuration.LearnPoems" id="db3cd5a8-33b6-4e0c-b017-3c5c951fda4f" configVersion="f3e184f7dee206428221090c0a978c5000000000"/>
