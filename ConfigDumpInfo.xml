@@ -16,12 +16,13 @@
 		<Metadata name="Catalog.Картинки.ManagerModule" id="73c1f813-fc13-4fba-89c8-a0ff2f7310b9.3" configVersion="4a06b32f5b21c848b63eb09bdf63a37300000000"/>
 		<Metadata name="Catalog.Картинки.ObjectModule" id="73c1f813-fc13-4fba-89c8-a0ff2f7310b9.0" configVersion="22d5957e54459941a0ae93c1ecacf9a800000000"/>
 		<Metadata name="Catalog.Картинки.Predefined" id="73c1f813-fc13-4fba-89c8-a0ff2f7310b9.1c" configVersion="b3bdde75e7592f49a98b66eac2797f0000000000"/>
-		<Metadata name="Catalog.Произведения" id="fc3500b0-7eee-4d41-b110-a9661db39679" configVersion="555b030aa49b9447acd1096478cf7ddb00000000">
+		<Metadata name="Catalog.Произведения" id="fc3500b0-7eee-4d41-b110-a9661db39679" configVersion="2efd1eb84c4faf49b77dbd7363ff146d00000000">
 			<Metadata name="Catalog.Произведения.Attribute.Подсказка" id="09565753-8f33-4217-a0b2-c13925f4ff86"/>
 			<Metadata name="Catalog.Произведения.Attribute.Связь" id="4164f744-064f-41fb-a41e-f4023a6dd87f"/>
 			<Metadata name="Catalog.Произведения.Attribute.Комментарий" id="4592ac10-8c0f-4f09-87d8-08da81bd2514"/>
 			<Metadata name="Catalog.Произведения.Attribute.Дата" id="4b591c89-cdaa-469b-a820-7fd236d95844"/>
 			<Metadata name="Catalog.Произведения.Command.Пазл" id="571e5539-1888-4f33-8b67-b1bab8de4855"/>
+			<Metadata name="Catalog.Произведения.Command.ПолучитьИзФайла" id="a4d6f199-7034-4f0c-ae2d-868cb4ce7d32"/>
 			<Metadata name="Catalog.Произведения.Attribute.Автор" id="a97c753c-bca0-4129-a44c-b3b248aab603"/>
 			<Metadata name="Catalog.Произведения.TabularSection.Тело" id="b008b7c1-2c08-4e97-ac14-ed289a4f5773"/>
 			<Metadata name="Catalog.Произведения.TabularSection.Тело.Attribute.СтрокаДанных" id="bab8b4b2-4006-400a-9fa6-516d1f1a5179"/>
@@ -29,15 +30,16 @@
 			<Metadata name="Catalog.Произведения.Attribute.Визуализация" id="dc860579-d925-4542-84bf-ec9851ac8746"/>
 			<Metadata name="Catalog.Произведения.TabularSection.Тело.Attribute.Подсказка" id="e6f52d9e-35a4-4cbc-874f-0fd0451ca401"/>
 		</Metadata>
-		<Metadata name="Catalog.Произведения.Command.ВыгрузитьВФайл.CommandModule" id="dc6127ac-86ea-4c69-81f1-80ac8925ec3b.2" configVersion="971a8888fec2b848adcb4d29e163a5e800000000"/>
+		<Metadata name="Catalog.Произведения.Command.ВыгрузитьВФайл.CommandModule" id="dc6127ac-86ea-4c69-81f1-80ac8925ec3b.2" configVersion="d53a63b5e188f247861e78363e67e4a600000000"/>
 		<Metadata name="Catalog.Произведения.Command.Пазл.CommandModule" id="571e5539-1888-4f33-8b67-b1bab8de4855.2" configVersion="2a9b0fb81c3e9441b57251514449436c00000000"/>
+		<Metadata name="Catalog.Произведения.Command.ПолучитьИзФайла.CommandModule" id="a4d6f199-7034-4f0c-ae2d-868cb4ce7d32.2" configVersion="f91b76d7bbf94949be10d6014e2b0f1200000000"/>
 		<Metadata name="CommonForm.Пазл" id="ea27d3b5-b41e-491f-9097-d01bb3e89f73" configVersion="ed263f338e7121488c83b8d23b652ff800000000"/>
 		<Metadata name="CommonForm.Пазл.Form" id="ea27d3b5-b41e-491f-9097-d01bb3e89f73.0" configVersion="053f983c9e87024d8b7a79040b4bd0ff00000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияСервер" id="4e36d7fa-6f78-415e-ae7d-4b1c5643dcf8" configVersion="6bab2bed97e7404da0d65c7fd31d2d8d00000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияСервер.Module" id="4e36d7fa-6f78-415e-ae7d-4b1c5643dcf8.0" configVersion="04bc3db4f4e7d544a53657c1f9ee33ff00000000"/>
 		<Metadata name="CommonModule.ОбщийОписаниеОшибокНаКлиенте" id="a0dde042-5cf9-417e-bbee-daf41c6988aa" configVersion="94e1dfa9aa518f4e9beca403afca47bb00000000"/>
 		<Metadata name="CommonModule.ОбщийОписаниеОшибокНаКлиенте.Module" id="a0dde042-5cf9-417e-bbee-daf41c6988aa.0" configVersion="6afbe8250c134e418b313e09a952b27c00000000"/>
-		<Metadata name="Configuration.LearnPoems" id="db3cd5a8-33b6-4e0c-b017-3c5c951fda4f" configVersion="9908eb187e65e549b283aa155e21e8dc00000000"/>
+		<Metadata name="Configuration.LearnPoems" id="db3cd5a8-33b6-4e0c-b017-3c5c951fda4f" configVersion="e97d2d360845cf4485b2587ca5159b4e00000000"/>
 		<Metadata name="Language.English" id="a15bbf2b-5301-416c-aa92-7dae015f0c7b" configVersion="64b7c0260fbcdd4b946c6bde53f9877e00000000"/>
 		<Metadata name="Language.Русский" id="314c31a6-925b-4b9c-850b-b4bc1b901746" configVersion="5bd15519b884c24abaffe925564a354c00000000"/>
 		<Metadata name="Subsystem.Системные" id="6fe637c3-5835-4c20-839f-670da27a2750" configVersion="12655c207bba154f80fbdac227778fd400000000"/>
