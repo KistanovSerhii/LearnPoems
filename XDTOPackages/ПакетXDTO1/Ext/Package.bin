@@ -1,0 +1,29 @@
+﻿<package xmlns="http://v8.1c.ru/8.1/xdto" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" targetNamespace="http://www.main-app-structurev1.org">
+	<import namespace="http://v8.1c.ru/8.1/data/enterprise/current-config"/>
+	<import namespace="http://v8.1c.ru/8.1/data/core"/>
+	<objectType name="CatalogObject.Произведения">
+		<property name="DeletionMark" type="xs:boolean"/>
+		<property name="Description" type="xs:string"/>
+		<property name="Дата" type="xs:date"/>
+		<property name="Автор" type="xs:string"/>
+		<property name="Подсказка" type="xs:string"/>
+		<property name="Коммент" type="xs:string"/>
+		<property xmlns:d3p1="http://www.main-app-structurev1.org" name="ТЧТело" type="d3p1:CatalogObject.Произведения.Тело"/>
+		<property xmlns:d3p1="http://v8.1c.ru/8.1/data/core" name="ВизуализацияКартинка" type="d3p1:ValueStorage"/>
+		<property name="СодержитКартинку" type="xs:boolean"/>
+	</objectType>
+	<objectType name="CatalogObject.Произведения.Тело">
+		<property xmlns:d3p1="http://www.main-app-structurev1.org" name="Row" type="d3p1:CatalogObject.Произведения.Тело.Row" upperBound="-1"/>
+	</objectType>
+	<objectType name="CatalogObject.Произведения.Тело.Row">
+		<property name="СтрокаДанных" type="xs:string"/>
+		<property name="Подсказка" type="xs:string"/>
+	</objectType>
+	<objectType name="CatalogObject.Картинка">
+		<property name="DeletionMark" type="xs:boolean"/>
+		<property name="Description" type="xs:string"/>
+		<property xmlns:d3p1="http://v8.1c.ru/8.1/data/core" name="Данные" type="d3p1:ValueStorage"/>
+		<property name="ДатаЗагрузки" type="xs:dateTime"/>
+		<property name="Комментарий" type="xs:string"/>
+	</objectType>
+</package>

@@ -245,6 +245,7 @@
 			<Subsystem>Системные</Subsystem>
 			<CommonModule>ОбщийОписаниеОшибокНаКлиенте</CommonModule>
 			<CommonModule>ОбщегоНазначенияСервер</CommonModule>
+			<XDTOPackage>ПакетXDTO1</XDTOPackage>
 			<CommonForm>Пазл</CommonForm>
 			<Catalog>Произведения</Catalog>
 			<Catalog>Картинки</Catalog>

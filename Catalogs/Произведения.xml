@@ -284,7 +284,7 @@
 			</Attribute>
 			<Attribute uuid="4592ac10-8c0f-4f09-87d8-08da81bd2514">
 				<Properties>
-					<Name>Комментарий</Name>
+					<Name>Коммент</Name>
 					<Synonym>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -314,7 +314,7 @@
 					<MinValue xsi:nil="true"/>
 					<MaxValue xsi:nil="true"/>
 					<FillFromFillingValue>false</FillFromFillingValue>
-					<FillValue xsi:type="xs:string"/>
+					<FillValue xsi:type="xs:string">          </FillValue>
 					<FillChecking>DontCheck</FillChecking>
 					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
 					<ChoiceParameterLinks/>
