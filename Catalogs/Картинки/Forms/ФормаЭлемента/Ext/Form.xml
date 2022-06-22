@@ -15,7 +15,7 @@
 			<ExtendedTooltip name="НаименованиеРасширеннаяПодсказка" id="6"/>
 		</InputField>
 		<InputField name="Комментарий" id="13">
-			<DataPath>Объект.Комментарий</DataPath>
+			<DataPath>Объект.Коммент</DataPath>
 			<SkipOnInput>true</SkipOnInput>
 			<EditMode>EnterOnInput</EditMode>
 			<ContextMenu name="КомментарийКонтекстноеМеню" id="14"/>

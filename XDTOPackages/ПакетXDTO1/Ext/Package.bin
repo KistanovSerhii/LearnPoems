@@ -9,7 +9,7 @@
 		<property name="Подсказка" type="xs:string"/>
 		<property name="Коммент" type="xs:string"/>
 		<property xmlns:d3p1="http://www.main-app-structurev1.org" name="ТЧТело" type="d3p1:CatalogObject.Произведения.Тело"/>
-		<property xmlns:d3p1="http://v8.1c.ru/8.1/data/core" name="ВизуализацияКартинка" type="d3p1:ValueStorage"/>
+		<property xmlns:d3p1="http://www.main-app-structurev1.org" name="_Визуализация" type="d3p1:CatalogObject.Картинка"/>
 		<property name="СодержитКартинку" type="xs:boolean"/>
 	</objectType>
 	<objectType name="CatalogObject.Произведения.Тело">
@@ -24,6 +24,6 @@
 		<property name="Description" type="xs:string"/>
 		<property xmlns:d3p1="http://v8.1c.ru/8.1/data/core" name="Данные" type="d3p1:ValueStorage"/>
 		<property name="ДатаЗагрузки" type="xs:dateTime"/>
-		<property name="Комментарий" type="xs:string"/>
+		<property name="Коммент" type="xs:string"/>
 	</objectType>
 </package>
