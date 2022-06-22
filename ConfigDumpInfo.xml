@@ -16,7 +16,7 @@
 		<Metadata name="Catalog.Картинки.ManagerModule" id="73c1f813-fc13-4fba-89c8-a0ff2f7310b9.3" configVersion="4a06b32f5b21c848b63eb09bdf63a37300000000"/>
 		<Metadata name="Catalog.Картинки.ObjectModule" id="73c1f813-fc13-4fba-89c8-a0ff2f7310b9.0" configVersion="22d5957e54459941a0ae93c1ecacf9a800000000"/>
 		<Metadata name="Catalog.Картинки.Predefined" id="73c1f813-fc13-4fba-89c8-a0ff2f7310b9.1c" configVersion="b3bdde75e7592f49a98b66eac2797f0000000000"/>
-		<Metadata name="Catalog.Произведения" id="fc3500b0-7eee-4d41-b110-a9661db39679" configVersion="b8394ff46f76634f969cd3f879ba421b00000000">
+		<Metadata name="Catalog.Произведения" id="fc3500b0-7eee-4d41-b110-a9661db39679" configVersion="085eb9fb072a3d46bc464f05c693e84b00000000">
 			<Metadata name="Catalog.Произведения.Attribute.Подсказка" id="09565753-8f33-4217-a0b2-c13925f4ff86"/>
 			<Metadata name="Catalog.Произведения.Attribute.Связь" id="4164f744-064f-41fb-a41e-f4023a6dd87f"/>
 			<Metadata name="Catalog.Произведения.Attribute.Коммент" id="4592ac10-8c0f-4f09-87d8-08da81bd2514"/>
@@ -33,6 +33,8 @@
 		<Metadata name="Catalog.Произведения.Command.ВыгрузитьВФайл.CommandModule" id="dc6127ac-86ea-4c69-81f1-80ac8925ec3b.2" configVersion="585135cce22ca74f80d4b0dbf8ff8dd600000000"/>
 		<Metadata name="Catalog.Произведения.Command.Пазл.CommandModule" id="571e5539-1888-4f33-8b67-b1bab8de4855.2" configVersion="2a9b0fb81c3e9441b57251514449436c00000000"/>
 		<Metadata name="Catalog.Произведения.Command.ПолучитьИзФайла.CommandModule" id="a4d6f199-7034-4f0c-ae2d-868cb4ce7d32.2" configVersion="8e4ac90d65e39049a9a134fca218ca4b00000000"/>
+		<Metadata name="Catalog.Произведения.Form.ФормаЭлемента" id="1f33e0d9-a93b-45d5-98e2-c41ec9627f02" configVersion="957fa13671467b42ab4263de8faac9b100000000"/>
+		<Metadata name="Catalog.Произведения.Form.ФормаЭлемента.Form" id="1f33e0d9-a93b-45d5-98e2-c41ec9627f02.0" configVersion="68433ee1c6a26b449f527d2a2ca8f7a400000000"/>
 		<Metadata name="CommonForm.Пазл" id="ea27d3b5-b41e-491f-9097-d01bb3e89f73" configVersion="ed263f338e7121488c83b8d23b652ff800000000"/>
 		<Metadata name="CommonForm.Пазл.Form" id="ea27d3b5-b41e-491f-9097-d01bb3e89f73.0" configVersion="053f983c9e87024d8b7a79040b4bd0ff00000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияСервер" id="4e36d7fa-6f78-415e-ae7d-4b1c5643dcf8" configVersion="066b53a18f17394c860b17bfd226390800000000"/>
