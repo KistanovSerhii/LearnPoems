@@ -16,7 +16,7 @@
 		<Metadata name="Catalog.Картинки.ManagerModule" id="73c1f813-fc13-4fba-89c8-a0ff2f7310b9.3" configVersion="4a06b32f5b21c848b63eb09bdf63a37300000000"/>
 		<Metadata name="Catalog.Картинки.ObjectModule" id="73c1f813-fc13-4fba-89c8-a0ff2f7310b9.0" configVersion="22d5957e54459941a0ae93c1ecacf9a800000000"/>
 		<Metadata name="Catalog.Картинки.Predefined" id="73c1f813-fc13-4fba-89c8-a0ff2f7310b9.1c" configVersion="b3bdde75e7592f49a98b66eac2797f0000000000"/>
-		<Metadata name="Catalog.Произведения" id="fc3500b0-7eee-4d41-b110-a9661db39679" configVersion="085eb9fb072a3d46bc464f05c693e84b00000000">
+		<Metadata name="Catalog.Произведения" id="fc3500b0-7eee-4d41-b110-a9661db39679" configVersion="935b64c945b5d54f8090da2977e9b1ac00000000">
 			<Metadata name="Catalog.Произведения.Attribute.Подсказка" id="09565753-8f33-4217-a0b2-c13925f4ff86"/>
 			<Metadata name="Catalog.Произведения.Attribute.Связь" id="4164f744-064f-41fb-a41e-f4023a6dd87f"/>
 			<Metadata name="Catalog.Произведения.Attribute.Коммент" id="4592ac10-8c0f-4f09-87d8-08da81bd2514"/>
@@ -30,9 +30,9 @@
 			<Metadata name="Catalog.Произведения.Attribute.Визуализация" id="dc860579-d925-4542-84bf-ec9851ac8746"/>
 			<Metadata name="Catalog.Произведения.TabularSection.Тело.Attribute.Подсказка" id="e6f52d9e-35a4-4cbc-874f-0fd0451ca401"/>
 		</Metadata>
-		<Metadata name="Catalog.Произведения.Command.ВыгрузитьВФайл.CommandModule" id="dc6127ac-86ea-4c69-81f1-80ac8925ec3b.2" configVersion="585135cce22ca74f80d4b0dbf8ff8dd600000000"/>
+		<Metadata name="Catalog.Произведения.Command.ВыгрузитьВФайл.CommandModule" id="dc6127ac-86ea-4c69-81f1-80ac8925ec3b.2" configVersion="1fc4e2f521b3c046b28f6402ab319da600000000"/>
 		<Metadata name="Catalog.Произведения.Command.Пазл.CommandModule" id="571e5539-1888-4f33-8b67-b1bab8de4855.2" configVersion="2a9b0fb81c3e9441b57251514449436c00000000"/>
-		<Metadata name="Catalog.Произведения.Command.ПолучитьИзФайла.CommandModule" id="a4d6f199-7034-4f0c-ae2d-868cb4ce7d32.2" configVersion="8e4ac90d65e39049a9a134fca218ca4b00000000"/>
+		<Metadata name="Catalog.Произведения.Command.ПолучитьИзФайла.CommandModule" id="a4d6f199-7034-4f0c-ae2d-868cb4ce7d32.2" configVersion="8eece2b372d5bc41be34ddd9693ef4a500000000"/>
 		<Metadata name="Catalog.Произведения.Form.ФормаЭлемента" id="1f33e0d9-a93b-45d5-98e2-c41ec9627f02" configVersion="02bd09a6e6c5cf48890c086ad8b625e100000000"/>
 		<Metadata name="Catalog.Произведения.Form.ФормаЭлемента.Form" id="1f33e0d9-a93b-45d5-98e2-c41ec9627f02.0" configVersion="f7fcc8b81aa01f4291697a89445d7d9f00000000"/>
 		<Metadata name="CommonForm.Пазл" id="ea27d3b5-b41e-491f-9097-d01bb3e89f73" configVersion="ed263f338e7121488c83b8d23b652ff800000000"/>
@@ -46,7 +46,7 @@
 		<Metadata name="Language.Русский" id="314c31a6-925b-4b9c-850b-b4bc1b901746" configVersion="5bd15519b884c24abaffe925564a354c00000000"/>
 		<Metadata name="Subsystem.Системные" id="6fe637c3-5835-4c20-839f-670da27a2750" configVersion="12655c207bba154f80fbdac227778fd400000000"/>
 		<Metadata name="Subsystem.Справочники" id="47dfd6b2-b97a-48b5-bc78-7c3a6fdb82ce" configVersion="488fea3f69a40048b8d6947d30e686af00000000"/>
-		<Metadata name="XDTOPackage.ПакетXDTO1" id="e6701307-07fd-4eac-8c13-9d8fd58af238" configVersion="53436bb529e46d4d8c75a7e6cfb51b4b00000000"/>
-		<Metadata name="XDTOPackage.ПакетXDTO1.Package" id="e6701307-07fd-4eac-8c13-9d8fd58af238.0" configVersion="ead3974cbe5eab4bbd63746b7b8a730000000000"/>
+		<Metadata name="XDTOPackage.ПакетXDTO1" id="e6701307-07fd-4eac-8c13-9d8fd58af238" configVersion="6500d01a7001194cbabdffb005ad9b8000000000"/>
+		<Metadata name="XDTOPackage.ПакетXDTO1.Package" id="e6701307-07fd-4eac-8c13-9d8fd58af238.0" configVersion="cae2b3d6d76bbf4bb461a8021a2b2b6700000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

@@ -4,26 +4,26 @@
 	<objectType name="CatalogObject.Произведения">
 		<property name="DeletionMark" type="xs:boolean"/>
 		<property name="Description" type="xs:string"/>
-		<property name="Дата" type="xs:date"/>
-		<property name="Автор" type="xs:string"/>
-		<property name="Подсказка" type="xs:string"/>
-		<property name="Коммент" type="xs:string"/>
+		<property name="Дата" type="xs:date" nillable="true"/>
+		<property name="Автор" type="xs:string" nillable="true"/>
+		<property name="Подсказка" type="xs:string" nillable="true"/>
+		<property name="Коммент" type="xs:string" nillable="true"/>
 		<property xmlns:d3p1="http://www.main-app-structurev1.org" name="ТЧТело" type="d3p1:CatalogObject.Произведения.Тело"/>
-		<property xmlns:d3p1="http://www.main-app-structurev1.org" name="_Визуализация" type="d3p1:CatalogObject.Картинка"/>
+		<property xmlns:d3p1="http://www.main-app-structurev1.org" name="_Визуализация" type="d3p1:CatalogObject.Картинка" nillable="true"/>
 		<property name="СодержитКартинку" type="xs:boolean"/>
 	</objectType>
 	<objectType name="CatalogObject.Произведения.Тело">
 		<property xmlns:d3p1="http://www.main-app-structurev1.org" name="Row" type="d3p1:CatalogObject.Произведения.Тело.Row" upperBound="-1"/>
 	</objectType>
 	<objectType name="CatalogObject.Произведения.Тело.Row">
-		<property name="СтрокаДанных" type="xs:string"/>
-		<property name="Подсказка" type="xs:string"/>
+		<property name="СтрокаДанных" type="xs:string" nillable="true"/>
+		<property name="Подсказка" type="xs:string" nillable="true"/>
 	</objectType>
 	<objectType name="CatalogObject.Картинка">
 		<property name="DeletionMark" type="xs:boolean"/>
 		<property name="Description" type="xs:string"/>
-		<property xmlns:d3p1="http://v8.1c.ru/8.1/data/core" name="Данные" type="d3p1:ValueStorage"/>
-		<property name="ДатаЗагрузки" type="xs:dateTime"/>
-		<property name="Коммент" type="xs:string"/>
+		<property xmlns:d3p1="http://v8.1c.ru/8.1/data/core" name="Данные" type="d3p1:ValueStorage" nillable="true"/>
+		<property name="ДатаЗагрузки" type="xs:dateTime" nillable="true"/>
+		<property name="Коммент" type="xs:string" nillable="true"/>
 	</objectType>
 </package>
