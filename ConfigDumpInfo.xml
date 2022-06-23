@@ -40,8 +40,8 @@
 		<Metadata name="Catalog.Произведения.Form.ФормаСписка.Form" id="d35f7190-ffc5-4c8d-bc14-f9a096f159b3.0" configVersion="57a56f12da4098448cee4a9aedce6a2f00000000"/>
 		<Metadata name="Catalog.Произведения.Form.ФормаЭлемента" id="1f33e0d9-a93b-45d5-98e2-c41ec9627f02" configVersion="c5549461c9a86f43b00db19cb33dfe4d00000000"/>
 		<Metadata name="Catalog.Произведения.Form.ФормаЭлемента.Form" id="1f33e0d9-a93b-45d5-98e2-c41ec9627f02.0" configVersion="7707b1fc75954e4290e927dd90374a2700000000"/>
-		<Metadata name="CommonForm.Главная" id="dae634b3-beca-41be-b8e3-6f6032b92446" configVersion="fb37234a9f687248a174205c09ce7fb300000000"/>
-		<Metadata name="CommonForm.Главная.Form" id="dae634b3-beca-41be-b8e3-6f6032b92446.0" configVersion="f2c6bd0e18d0e04290a935d080fb40aa00000000"/>
+		<Metadata name="CommonForm.Главная" id="dae634b3-beca-41be-b8e3-6f6032b92446" configVersion="f6b63bc79d80614abbb4102b224cfdf600000000"/>
+		<Metadata name="CommonForm.Главная.Form" id="dae634b3-beca-41be-b8e3-6f6032b92446.0" configVersion="ee099c33d387c44786dc2acef8dcfaf300000000"/>
 		<Metadata name="CommonForm.Пазл" id="ea27d3b5-b41e-491f-9097-d01bb3e89f73" configVersion="daf0a62f40f6d54faa2aa967660888d500000000"/>
 		<Metadata name="CommonForm.Пазл.Form" id="ea27d3b5-b41e-491f-9097-d01bb3e89f73.0" configVersion="9d071a61b40f4b4aa344939f8c85901b00000000"/>
 		<Metadata name="CommonModule.ОбщегоНазначенияСервер" id="4e36d7fa-6f78-415e-ae7d-4b1c5643dcf8" configVersion="5391081538659947af8ac27e21f50f1b00000000"/>
