@@ -519,7 +519,7 @@
 					<Representation>PictureAndText</Representation>
 					<ToolTip/>
 					<Picture>
-						<xr:Ref>StdPicture.CheckSyntax</xr:Ref>
+						<xr:Ref>CommonPicture.Puzzle32</xr:Ref>
 						<xr:LoadTransparent>true</xr:LoadTransparent>
 					</Picture>
 					<Shortcut/>

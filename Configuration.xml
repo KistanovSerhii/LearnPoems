@@ -243,6 +243,9 @@
 			<Language>English</Language>
 			<Subsystem>Справочники</Subsystem>
 			<Subsystem>Системные</Subsystem>
+			<CommonPicture>Puzzle128</CommonPicture>
+			<CommonPicture>Puzzle64</CommonPicture>
+			<CommonPicture>Puzzle32</CommonPicture>
 			<CommonModule>ОбщийОписаниеОшибокНаКлиенте</CommonModule>
 			<CommonModule>ОбщегоНазначенияСервер</CommonModule>
 			<XDTOPackage>ПакетXDTO1</XDTOPackage>
