@@ -33,8 +33,8 @@
 		<Metadata name="Catalog.Произведения.Command.ВыгрузитьВФайл.CommandModule" id="dc6127ac-86ea-4c69-81f1-80ac8925ec3b.2" configVersion="1fc4e2f521b3c046b28f6402ab319da600000000"/>
 		<Metadata name="Catalog.Произведения.Command.Пазл.CommandModule" id="571e5539-1888-4f33-8b67-b1bab8de4855.2" configVersion="2a9b0fb81c3e9441b57251514449436c00000000"/>
 		<Metadata name="Catalog.Произведения.Command.ПолучитьИзФайла.CommandModule" id="a4d6f199-7034-4f0c-ae2d-868cb4ce7d32.2" configVersion="8eece2b372d5bc41be34ddd9693ef4a500000000"/>
-		<Metadata name="Catalog.Произведения.Form.ФормаСписка" id="d35f7190-ffc5-4c8d-bc14-f9a096f159b3" configVersion="19112460c479854dac3236e59b602d3b00000000"/>
-		<Metadata name="Catalog.Произведения.Form.ФормаСписка.Form" id="d35f7190-ffc5-4c8d-bc14-f9a096f159b3.0" configVersion="1b60c5faafbbe840be6e9e047d0f67fa00000000"/>
+		<Metadata name="Catalog.Произведения.Form.ФормаСписка" id="d35f7190-ffc5-4c8d-bc14-f9a096f159b3" configVersion="f1ea4e4b72b18744b0dd7d3959bdf0ea00000000"/>
+		<Metadata name="Catalog.Произведения.Form.ФормаСписка.Form" id="d35f7190-ffc5-4c8d-bc14-f9a096f159b3.0" configVersion="57a56f12da4098448cee4a9aedce6a2f00000000"/>
 		<Metadata name="Catalog.Произведения.Form.ФормаЭлемента" id="1f33e0d9-a93b-45d5-98e2-c41ec9627f02" configVersion="4ec3019d612c374bb0182282c0b35d5000000000"/>
 		<Metadata name="Catalog.Произведения.Form.ФормаЭлемента.Form" id="1f33e0d9-a93b-45d5-98e2-c41ec9627f02.0" configVersion="003897d13cd4d54e80d640f54250cb5c00000000"/>
 		<Metadata name="CommonForm.Пазл" id="ea27d3b5-b41e-491f-9097-d01bb3e89f73" configVersion="7ce4411e4742684090d563735f1c39c300000000"/>

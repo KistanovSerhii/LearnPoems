@@ -71,6 +71,7 @@
 					<DataPath>Список.Description</DataPath>
 					<DefaultItem>true</DefaultItem>
 					<AutoCellHeight>true</AutoCellHeight>
+					<AutoMaxWidth>false</AutoMaxWidth>
 					<ContextMenu name="НаименованиеКонтекстноеМеню" id="17"/>
 					<ExtendedTooltip name="НаименованиеРасширеннаяПодсказка" id="18"/>
 				</LabelField>
