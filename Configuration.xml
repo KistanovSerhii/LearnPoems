@@ -243,6 +243,7 @@
 			<Language>English</Language>
 			<Subsystem>Справочники</Subsystem>
 			<Subsystem>Системные</Subsystem>
+			<Subsystem>Настройки</Subsystem>
 			<CommonPicture>Puzzle128</CommonPicture>
 			<CommonPicture>Puzzle64</CommonPicture>
 			<CommonPicture>Puzzle32</CommonPicture>
@@ -252,6 +253,8 @@
 			<CommonForm>Пазл</CommonForm>
 			<Catalog>Произведения</Catalog>
 			<Catalog>Картинки</Catalog>
+			<Catalog>Авторы</Catalog>
+			<InformationRegister>НевалидныеСимволыСлов</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

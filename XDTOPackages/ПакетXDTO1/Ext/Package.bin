@@ -5,7 +5,7 @@
 		<property name="DeletionMark" type="xs:boolean"/>
 		<property name="Description" type="xs:string"/>
 		<property name="Дата" type="xs:date" nillable="true"/>
-		<property name="Автор" type="xs:string" nillable="true"/>
+		<property name="_Автор" type="xs:string" nillable="true"/>
 		<property name="Подсказка" type="xs:string" nillable="true"/>
 		<property name="Коммент" type="xs:string" nillable="true"/>
 		<property xmlns:d3p1="http://www.main-app-structurev1.org" name="ТЧТело" type="d3p1:CatalogObject.Произведения.Тело"/>

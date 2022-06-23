@@ -26,19 +26,6 @@
 			<ContextMenu name="НаименованиеКонтекстноеМеню" id="2"/>
 			<ExtendedTooltip name="НаименованиеРасширеннаяПодсказка" id="3"/>
 		</InputField>
-		<InputField name="Связь" id="4">
-			<DataPath>Объект.Связь</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<AutoMaxWidth>false</AutoMaxWidth>
-			<ContextMenu name="СвязьКонтекстноеМеню" id="5"/>
-			<ExtendedTooltip name="СвязьРасширеннаяПодсказка" id="6"/>
-		</InputField>
-		<InputField name="Дата" id="7">
-			<DataPath>Объект.Дата</DataPath>
-			<EditMode>EnterOnInput</EditMode>
-			<ContextMenu name="ДатаКонтекстноеМеню" id="8"/>
-			<ExtendedTooltip name="ДатаРасширеннаяПодсказка" id="9"/>
-		</InputField>
 		<InputField name="Автор" id="10">
 			<DataPath>Объект.Автор</DataPath>
 			<EditMode>EnterOnInput</EditMode>
@@ -46,12 +33,11 @@
 			<ContextMenu name="АвторКонтекстноеМеню" id="11"/>
 			<ExtendedTooltip name="АвторРасширеннаяПодсказка" id="12"/>
 		</InputField>
-		<InputField name="Подсказка" id="13">
-			<DataPath>Объект.Подсказка</DataPath>
+		<InputField name="Дата" id="7">
+			<DataPath>Объект.Дата</DataPath>
 			<EditMode>EnterOnInput</EditMode>
-			<AutoMaxWidth>false</AutoMaxWidth>
-			<ContextMenu name="ПодсказкаКонтекстноеМеню" id="14"/>
-			<ExtendedTooltip name="ПодсказкаРасширеннаяПодсказка" id="15"/>
+			<ContextMenu name="ДатаКонтекстноеМеню" id="8"/>
+			<ExtendedTooltip name="ДатаРасширеннаяПодсказка" id="9"/>
 		</InputField>
 		<InputField name="Коммент" id="16">
 			<DataPath>Объект.Коммент</DataPath>
@@ -60,12 +46,26 @@
 			<ContextMenu name="КомментКонтекстноеМеню" id="17"/>
 			<ExtendedTooltip name="КомментРасширеннаяПодсказка" id="18"/>
 		</InputField>
+		<InputField name="Подсказка" id="13">
+			<DataPath>Объект.Подсказка</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<AutoMaxWidth>false</AutoMaxWidth>
+			<ContextMenu name="ПодсказкаКонтекстноеМеню" id="14"/>
+			<ExtendedTooltip name="ПодсказкаРасширеннаяПодсказка" id="15"/>
+		</InputField>
 		<InputField name="Визуализация" id="19">
 			<DataPath>Объект.Визуализация</DataPath>
 			<EditMode>EnterOnInput</EditMode>
 			<AutoMaxWidth>false</AutoMaxWidth>
 			<ContextMenu name="ВизуализацияКонтекстноеМеню" id="20"/>
 			<ExtendedTooltip name="ВизуализацияРасширеннаяПодсказка" id="21"/>
+		</InputField>
+		<InputField name="Связь" id="4">
+			<DataPath>Объект.Связь</DataPath>
+			<EditMode>EnterOnInput</EditMode>
+			<AutoMaxWidth>false</AutoMaxWidth>
+			<ContextMenu name="СвязьКонтекстноеМеню" id="5"/>
+			<ExtendedTooltip name="СвязьРасширеннаяПодсказка" id="6"/>
 		</InputField>
 		<UsualGroup name="ГруппаРедактирование" id="46">
 			<Title>
