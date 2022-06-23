@@ -251,6 +251,7 @@
 			<CommonModule>ОбщегоНазначенияСервер</CommonModule>
 			<XDTOPackage>ПакетXDTO1</XDTOPackage>
 			<CommonForm>Пазл</CommonForm>
+			<CommonForm>Главная</CommonForm>
 			<Catalog>Произведения</Catalog>
 			<Catalog>Картинки</Catalog>
 			<Catalog>Авторы</Catalog>
