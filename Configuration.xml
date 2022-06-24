@@ -32,11 +32,15 @@
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
-			<Name>LearnPoems</Name>
+			<Name>LearnSpeech</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Learn poems</v8:content>
+					<v8:content>Учить диалог</v8:content>
+				</v8:item>
+				<v8:item>
+					<v8:lang>en</v8:lang>
+					<v8:content>Learn speech</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -203,13 +207,13 @@
 			<BriefInformation>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Приложение поможет запомнить стихи</v8:content>
+					<v8:content>Приложение поможет запомнить диалог</v8:content>
 				</v8:item>
 			</BriefInformation>
 			<DetailedInformation>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Приложение поможет запомнить стихи или любой другой текст</v8:content>
+					<v8:content>Приложение поможет запомнить диалог или стих</v8:content>
 				</v8:item>
 			</DetailedInformation>
 			<Copyright>
@@ -244,7 +248,6 @@
 			<Subsystem>Справочники</Subsystem>
 			<Subsystem>Системные</Subsystem>
 			<Subsystem>Настройки</Subsystem>
-			<CommonPicture>Puzzle128</CommonPicture>
 			<CommonPicture>Puzzle64</CommonPicture>
 			<CommonPicture>Puzzle32</CommonPicture>
 			<CommonModule>ОбщийОписаниеОшибокНаКлиенте</CommonModule>

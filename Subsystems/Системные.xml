@@ -20,7 +20,6 @@
 			<Picture/>
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Картинки</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.Puzzle128</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
