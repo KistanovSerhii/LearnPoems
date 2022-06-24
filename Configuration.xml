@@ -248,6 +248,7 @@
 			<CommonPicture>Puzzle64</CommonPicture>
 			<CommonPicture>Puzzle32</CommonPicture>
 			<CommonModule>ОбщийОписаниеОшибокНаКлиенте</CommonModule>
+			<CommonModule>КонструкторИнтерфейсовСервер</CommonModule>
 			<CommonModule>ОбщегоНазначенияСервер</CommonModule>
 			<XDTOPackage>ПакетXDTO1</XDTOPackage>
 			<CommonForm>Пазл</CommonForm>
